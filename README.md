@@ -13,14 +13,16 @@ https://youtube.com/shorts/VudGUXKQcCg
 
 
 # Proceso previo
-Descargar la app de expo en la play store en su dispositivo android
+## Descargar la app de expo en la play store en su dispositivo android
+
+
 https://play.google.com/store/apps/details?id=host.exp.exponent
 ![photo_2023-08-04_11-29-35](https://github.com/santiagomonterof/react-native-condaty/assets/108990849/dca9359e-018b-4ce0-b0a5-8d6120ddda32)
 
 
 
 # Instalación
-Descargan el rar y abren con vscode la carpeta rn-condaty Le dan al comando 
+Descargan el rar y abren con vscode la carpeta rn-condaty y le dan al comando 
 
 ### yarn install
 
