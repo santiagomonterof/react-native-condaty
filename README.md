@@ -26,6 +26,7 @@ https://play.google.com/store/apps/details?id=host.exp.exponent
 # Instalación
 Descargan el rar y abren con vscode la carpeta rn-condaty y le dan al comando 
 
+### cd rn-condaty
 ### yarn install
 
 ## para esto tienen que tener previamente instalado node y luego yarn
@@ -34,7 +35,7 @@ luego le dan al comando
 
 ### yarn start 
 
-y les saldra este QR
+y les saldra un QR
 ![imagen](https://github.com/santiagomonterof/react-native-condaty/assets/108990849/a9606dc0-ca2d-4070-9a34-dc8cc858d7fb)
 
 
