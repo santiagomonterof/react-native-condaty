@@ -40,3 +40,5 @@ Y les saldra un QR
 
 
 ## Escanean con la aplicacion el QR y listo
+
+Reflexion: Mejor manejo de navegacion, actualizar elementos que seran deprecados en un futuro, mejorar la estructura, usar typescript.
